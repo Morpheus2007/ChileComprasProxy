@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\FrameworkCore\ChileComprasProxy.Framework.Utilities\ChileComprasProxy.Framework.Utilities.csproj" />
+    <ProjectReference Include="..\ChileComprasProxy.Backend.Interfaces\ChileComprasProxy.Backend.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

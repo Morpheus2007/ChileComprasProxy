@@ -1,0 +1,14 @@
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\bin\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.deps.json
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\bin\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.dll
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\bin\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.pdb
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\bin\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.dll
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\bin\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.dll
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\bin\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.pdb
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\bin\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.pdb
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\obj\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.csproj.AssemblyReference.cache
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\obj\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.AssemblyInfoInputs.cache
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\obj\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.AssemblyInfo.cs
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\obj\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.csproj.CoreCompileInputs.cache
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\obj\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.csproj.CopyComplete
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\obj\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.dll
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.ServiceProxy\obj\Release\netcoreapp2.1\ChileComprasProxyBackend.ServiceProxy.pdb

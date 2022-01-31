@@ -1,0 +1,9 @@
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\bin\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.deps.json
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\bin\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.dll
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\bin\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.pdb
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\obj\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.AssemblyInfoInputs.cache
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\obj\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.AssemblyInfo.cs
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\obj\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.csproj.CoreCompileInputs.cache
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\obj\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.dll
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\obj\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.pdb
+D:\ChileCompra\ChileComprasProxy\FrameworkCore\ChileComprasProxy.Framework.Utilities\obj\Release\netcoreapp2.1\ChileComprasProxy.Framework.Utilities.csproj.AssemblyReference.cache

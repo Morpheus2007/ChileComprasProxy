@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChileComprasProxy.Backend.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:ChileComprasProxy.Backend.WebApi.Controllers.CountryCovidController.Get">
+            <summary>
+            Obtiene listado de casos COVID-19
+            </summary>
+            <response code="200">Retorna un listado de casos COVID-19 del día actual</response>
+            <returns></returns>
+        </member>
+        <member name="M:ChileComprasProxy.Backend.WebApi.Controllers.CountryCovidController.Get(System.String)">
+            <summary>
+            Obtiene listado histórico diario de casos COVID-19
+            </summary>
+            <response code="200">Retorna un listado histórico diario de casos COVID-19 de un país dado</response>
+            <response code="400">Parametro(s) no valido(s)</response>
+            <returns></returns>
+        </member>
+        <member name="T:ChileComprasProxy.Backend.WebApi.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ChileComprasProxy.Backend.WebApi.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:ChileComprasProxy.Backend.WebApi.Program.BuildWebHost(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ChileComprasProxy.Backend.WebApi.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ChileComprasProxy.Backend.WebApi.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+            <param name="env"></param>
+        </member>
+        <member name="P:ChileComprasProxy.Backend.WebApi.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ChileComprasProxy.Backend.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

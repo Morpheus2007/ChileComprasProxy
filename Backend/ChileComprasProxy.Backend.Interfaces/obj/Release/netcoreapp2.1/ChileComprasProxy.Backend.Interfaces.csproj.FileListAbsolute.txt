@@ -1,0 +1,9 @@
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\bin\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.deps.json
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\bin\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.dll
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\bin\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.pdb
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\obj\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.AssemblyInfoInputs.cache
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\obj\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.AssemblyInfo.cs
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\obj\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.csproj.CoreCompileInputs.cache
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\obj\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.dll
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\obj\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.pdb
+D:\ChileCompra\ChileComprasProxy\Backend\ChileComprasProxy.Backend.Interfaces\obj\Release\netcoreapp2.1\ChileComprasProxy.Backend.Interfaces.csproj.AssemblyReference.cache

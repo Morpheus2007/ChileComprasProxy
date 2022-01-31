@@ -1,0 +1,14 @@
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\bin\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.deps.json
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\bin\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.dll
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\bin\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.pdb
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\bin\Debug\netcoreapp2.1\Dt.Framework.Utilities.dll
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\bin\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.Interfaces.dll
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\bin\Debug\netcoreapp2.1\Dt.Framework.Utilities.pdb
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\bin\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.Interfaces.pdb
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\obj\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.csprojAssemblyReference.cache
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\obj\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\obj\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.AssemblyInfoInputs.cache
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\obj\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.AssemblyInfo.cs
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\obj\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.csproj.CopyComplete
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\obj\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.dll
+C:\Desarrollo\Proyectos\PFIServiceProxy\Backend\Dt.MiboProxy.Backend.ServiceProxy\obj\Debug\netcoreapp2.1\Dt.MiboProxy.Backend.ServiceProxy.pdb

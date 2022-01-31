@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.1.1" />
+    <PackageReference Include="RestSharpCore" Version="105.2.3" />
+    <PackageReference Include="Serilog" Version="2.7.1" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\FrameworkCore\ChileComprasProxy.Framework.Utilities\ChileComprasProxy.Framework.Utilities.csproj" />
+    <ProjectReference Include="..\ChileComprasProxy.Backend.Interfaces\ChileComprasProxy.Backend.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

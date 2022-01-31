@@ -1,0 +1,9 @@
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\bin\Debug\netcoreapp2.1\Dt.Framework.Utilities.deps.json
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\bin\Debug\netcoreapp2.1\Dt.Framework.Utilities.dll
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\bin\Debug\netcoreapp2.1\Dt.Framework.Utilities.pdb
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\obj\Debug\netcoreapp2.1\Dt.Framework.Utilities.csprojAssemblyReference.cache
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\obj\Debug\netcoreapp2.1\Dt.Framework.Utilities.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\obj\Debug\netcoreapp2.1\Dt.Framework.Utilities.AssemblyInfoInputs.cache
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\obj\Debug\netcoreapp2.1\Dt.Framework.Utilities.AssemblyInfo.cs
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\obj\Debug\netcoreapp2.1\Dt.Framework.Utilities.dll
+C:\Desarrollo\Proyectos\PFIServiceProxy\FrameworkCore\Dt.Framework.Utilities\obj\Debug\netcoreapp2.1\Dt.Framework.Utilities.pdb
